@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Run by fellow students
+- Pretty simple and easy class to help ease new students into college
 
 1. Numbered
 2. List
